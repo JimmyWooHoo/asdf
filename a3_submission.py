@@ -1,6 +1,3 @@
-
-
-
 class Queue:
     """
     A priority-based queue implemented using a binary min-heap.
